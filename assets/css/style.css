@@ -1,0 +1,28 @@
+.box{
+		height: 200px;
+		width: 200px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+		margin: 20px;
+	}
+
+	.col-centered{
+
+
+text-align: center;
+}
+.name{
+	background-color: #C67676;
+	color: #F0E4E4;
+
+}
+
+.opt{
+	margin-top: 30px;
+}
+
+.btn:hover{
+	background-color: #F38989
+
+}
